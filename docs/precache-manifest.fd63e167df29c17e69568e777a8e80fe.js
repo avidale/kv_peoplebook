@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/kv_peoplebook/static/js/runtime~main.d1ebe250.js"
   },
   {
-    "revision": "8c72c6da816febc75c74",
-    "url": "/kv_peoplebook/static/js/main.8c72c6da.chunk.js"
+    "revision": "7dfbd740a4391102ffdd",
+    "url": "/kv_peoplebook/static/js/main.7dfbd740.chunk.js"
   },
   {
     "revision": "8ed95656164caa15abc9",
     "url": "/kv_peoplebook/static/js/1.8ed95656.chunk.js"
   },
   {
-    "revision": "8c72c6da816febc75c74",
+    "revision": "7dfbd740a4391102ffdd",
     "url": "/kv_peoplebook/static/css/main.4f5f5126.chunk.css"
   },
   {
-    "revision": "cc0857738b7beb44d94b917a0d19a0dd",
+    "revision": "1bbe93e04a1022bef26ca02a6371174d",
     "url": "/kv_peoplebook/index.html"
   }
 ];

@@ -1,7 +1,7 @@
 {
   "main.css": "/kv_peoplebook/static/css/main.4f5f5126.chunk.css",
-  "main.js": "/kv_peoplebook/static/js/main.8c72c6da.chunk.js",
-  "main.js.map": "/kv_peoplebook/static/js/main.8c72c6da.chunk.js.map",
+  "main.js": "/kv_peoplebook/static/js/main.7dfbd740.chunk.js",
+  "main.js.map": "/kv_peoplebook/static/js/main.7dfbd740.chunk.js.map",
   "static/js/1.8ed95656.chunk.js": "/kv_peoplebook/static/js/1.8ed95656.chunk.js",
   "static/js/1.8ed95656.chunk.js.map": "/kv_peoplebook/static/js/1.8ed95656.chunk.js.map",
   "runtime~main.js": "/kv_peoplebook/static/js/runtime~main.d1ebe250.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/kv_peoplebook/static/media/logo.5d5d9eef.svg",
   "static/css/main.4f5f5126.chunk.css.map": "/kv_peoplebook/static/css/main.4f5f5126.chunk.css.map",
   "index.html": "/kv_peoplebook/index.html",
-  "precache-manifest.22ee3890360310e7203f31f461809b7f.js": "/kv_peoplebook/precache-manifest.22ee3890360310e7203f31f461809b7f.js",
+  "precache-manifest.fd63e167df29c17e69568e777a8e80fe.js": "/kv_peoplebook/precache-manifest.fd63e167df29c17e69568e777a8e80fe.js",
   "service-worker.js": "/kv_peoplebook/service-worker.js"
 }
