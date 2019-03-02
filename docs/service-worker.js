@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/kv_peoplebook/precache-manifest.fd63e167df29c17e69568e777a8e80fe.js"
+  "/kv_peoplebook/precache-manifest.89e55863ae717acfcb157287606c918c.js"
 );
 
 workbox.clientsClaim();
